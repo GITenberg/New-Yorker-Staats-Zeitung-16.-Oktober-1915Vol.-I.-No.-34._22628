@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22628#New-Yorker-Staats-Zeitung-16.-Oktober-1915Vol.-I.-No.-34.
 gutenberg_bookshelf:
 - German Language Books
 - World War I
